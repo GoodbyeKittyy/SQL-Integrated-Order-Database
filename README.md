@@ -5,4 +5,6 @@
 
 This project was created using Microsoft Access and integrated with SQL. 
 
-Built on SQL technology, the database is scalable and helps users maintain a centralized repository of staff leave data, including leave balances, types of leave, and historical leave records. The application takes care of different modules and their associated reports, which are produced as per the applicable strategies and standards that are put forwarded by the administrative staff. The entire project has been developed keeping in view of the distributed client server computing technology, in mind.
+The Order Database is essential for maintaining accurate and up-to-date information about orders and inventory. It enables retailers to efficiently process orders and ensure timely delivery to customers.
+
+Built on SQL technology, the database is scalable and can integrated with other systems to monitor product availability, stock levels, and replenishment needs in real-time. Furthermore, the database can be further developed to generate reports and analytics on order metrics, including sales performance, order trends, customer behavior, and inventory turnover. These insights inform strategic decision-making, sales forecasting, and inventory planning efforts.
